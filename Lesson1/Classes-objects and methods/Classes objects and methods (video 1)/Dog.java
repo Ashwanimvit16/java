@@ -15,6 +15,11 @@ public class Dog{
 		String sound = "Woof";
 		System.out.println(sound);
 	}
+	public void bark3()
+	{
+		String sound="howwwww howwwww";
+		System.out.println(sound);
+	}
 
 
 	public void printName(String name){
